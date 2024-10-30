@@ -40,5 +40,16 @@
 <a href="https://www.pixiv.net/en/users/35069640">
   </div>
   </div>
+<div align="center">
+    <h3>Segundo Año</h3>
+    <a href="https://github.com/FerrerThomas/Python">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Python&theme=dark" />
+    </a>  
+    <a href="https://github.com/FerrerThomas/FOD">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=FOD&theme=dark" />
+    </a>  
+    <a href="https://github.com/FerrerThomas/AyED">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=AyEDt&theme=dark" />
+    </a>  
 
-------
+
