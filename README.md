@@ -49,7 +49,7 @@
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=FOD&theme=dark" />
     </a>  
     <a href="https://github.com/FerrerThomas/AyED">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=AyEDt&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=AyED&theme=dark" />
     </a>  
 
 
