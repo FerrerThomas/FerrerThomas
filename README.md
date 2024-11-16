@@ -41,15 +41,24 @@
   </div>
   </div>
 <div align="center">
-    <h3>Segundo Año</h3>
+   <h2 align="center">Segundo año</h2>
     <a href="https://github.com/FerrerThomas/Python">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Python&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/FerrerThomas/DBD">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=DBD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>  
     <a href="https://github.com/FerrerThomas/FOD">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=FOD&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>  
     <a href="https://github.com/FerrerThomas/AyED">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=AyED&theme=dark" />
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=AyED&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>  
-
+    <a href="https://github.com/FerrerThomas/ING-1.git">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=ING-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
+<h2 align="center">Mis Proyectos</h2>
+    <a href="https://github.com/FerrerThomas/IGcomparatorApp">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=IGcomparatorApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>  
 
