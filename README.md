@@ -42,7 +42,6 @@
   </div>
 
 <div align="center">
-<h2 align="center"></h2>
 <h2 align="center">Segundo año</h2>
     <a href="https://github.com/FerrerThomas/Python">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
