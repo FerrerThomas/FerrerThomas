@@ -10,7 +10,7 @@
    
   💀 Subo las practicas de las materias que voy haciendo
    
-  👾 Cualquier error que veas notificalo
+  👾 No me hago cargo de cualquier error :P
   
 ## <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="45" />  Herramientas Manejadas
 
@@ -61,4 +61,7 @@
     <a href="https://github.com/FerrerThomas/IGcomparatorApp">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=IGcomparatorApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>  
+    <a href="https://github.com/FerrerThomas/Comparator_NodeApp">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Comparator_NodeApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a> 
 
