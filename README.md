@@ -57,7 +57,7 @@
     <a href="https://github.com/FerrerThomas/ING-1.git">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=ING-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
-<h2 align="center">Mis Proyectos</h2>
+<h2 align="center">Minis Proyectos</h2>
     <a href="https://github.com/FerrerThomas/IGcomparatorApp">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=IGcomparatorApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a>  
