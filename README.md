@@ -9,8 +9,6 @@
   ⭐ Estudio Licenciatura en Sistemas UNLP
    
   💀 Subo las practicas de las materias que voy haciendo
-   
-  👾 No me hago cargo de cualquier error :P
   
 ## <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="45" />  Herramientas Manejadas
 
