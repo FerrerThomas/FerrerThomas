@@ -62,5 +62,11 @@
     </a>  
     <a href="https://github.com/FerrerThomas/Comparator_NodeApp">
       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Comparator_NodeApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
+    </a>
+    <a href="https://github.com/FerrerThomas/turnosBarberia">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Turnos_Barberia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
+    <a href="https://github.com/FerrerThomas/gestionDeposito">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=FerrerThomas&repo=Gestion_Deposito&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    </a>
 
